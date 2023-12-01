@@ -2,9 +2,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png">
 </p>
 
-<!-- <p>
-<img src="https://user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png">
-</p> -->
 
 
 <h4 align="center">Hello world👋 I'm Arunkumar A 😄</h4>
@@ -46,10 +43,6 @@
 
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
-<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
-
-<!-- <img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
-<br><br> -->
 
 <div class="stats" align="center">
 
@@ -75,8 +68,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BArunvijay2810%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
-<!-- <img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
-<br><br> -->
 
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
