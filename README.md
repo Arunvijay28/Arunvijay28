@@ -44,6 +44,36 @@
   </a>
 </p>
 
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+<!-- ![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif) -->
+
+<!-- <img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
+<br><br> -->
+
+<div class="stats" align="center">
+
+<div align="center" >
+  <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Arunvijay28&show_icons=true&count_private=true&theme=radical" />
+</div>
+
+<br><br>
+
+<div align="center">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunvijay28&show_icons=true&theme=radical&card_width=500" />
+</div>
+
+<br><br>
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=Arunvijay28&theme=radical" alt="GitHub Streak" /></div>
+
+</div>
+
+<br><br>
+
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BArunvijay2810%7D/count.svg" alt="visitor badge"/></p>
+<br>
 
 <!-- <img style="height: 12rem; width: 100rem;" align="center" src="https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif" />
 <br><br> -->
