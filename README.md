@@ -40,7 +40,15 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,mongodb,git,figma,visualstudio&theme=dark"/>
   </a>
 </p>
+<!--- trophies --->
+<br>
 
+<h2 style="color: #44AEFB">🏆 Github Trophies</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunvijay28&theme=radical" alt="Arunvijay" /></a> </p>
+
+<br>
+
+<!--- statistics --->
 <h2 style="color: #44AEFB">📊 Statistics</h2>
 
 
