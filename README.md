@@ -4,7 +4,7 @@
 
 
 
-<h4 align="center">Hello world👋 I'm Arunkumar A !  :star: | `:star:` </h4>
+<h4 align="center">Hello world👋 I'm Arunkumar A !  :star: </h4>
 <h4 align="center">A Pre-Final Year Student pursuing B Tech Information Technology at SSN College Of Engineering</h4>
 
 <p align="right">
