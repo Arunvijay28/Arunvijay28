@@ -4,8 +4,7 @@
 
 
 
-<h4 align="center">Hello world👋 I'm Arunkumar A ![image](https://github.com/Arunvijay28/Arunvijay28/assets/108559398/2e67a709-5c01-4522-8333-41fcdc83c194)
-</h4>
+<h4 align="center">Hello world👋 I'm Arunkumar A !  :star: | `:star:` </h4>
 <h4 align="center">A Pre-Final Year Student pursuing B Tech Information Technology at SSN College Of Engineering</h4>
 
 <p align="right">
