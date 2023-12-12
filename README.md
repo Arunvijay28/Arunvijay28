@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-Arunkumar](https://github.com/Arunvijay28/Arunvijay28)
 
-- 💬 Ask me about **React js, Tkinter , MySQL, MongoDB**
+- 💬 Ask me about **Javascript, Tkinter , MySQL, MongoDB**
 
 - 📫 Mail me **arunvijaynov10@gmail.com**
 
