@@ -37,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,mongodb,git,figma,visualstudio&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,mongodb,git,github,figma,visualstudio&theme=dark"/>
   </a>
 </p>
 <!--- trophies --->
