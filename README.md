@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,mongodb,git,github,figma,visualstudio&theme=dark"/>
   </a>
 </p>
+
 <!--- trophies --->
 <br>
 
