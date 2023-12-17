@@ -25,7 +25,7 @@
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [https://github.com/A-Arunkumar](https://github.com/Arunvijay28/Arunvijay28)
+- 👨‍💻 All of my projects are available at [https://github.com/A-Arunkumar](https://github.com/Arunvijay28?tab=repositories)
 
 - 💬 Ask me about **Javascript, Tkinter , MySQL, MongoDB**
 
