@@ -47,27 +47,27 @@
 <br>
 
 <a href="https://github.com/Arunvijay28/Mentoring-system">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Mentoring-System&title_color=e23e7f&text_color=baeeda&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Mentoring-System&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 <br>
 <br>
 <a href="https://github.com/Arunvijay28/Sudoku-Game">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Sudoku-Game&title_color=e23e7f&text_color=baeeda&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Sudoku-Game&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/Arunvijay28/Crop-Prediction">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Crop-Prediction&title_color=e23e7f&text_color=baeeda&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Crop-Prediction&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 
 <br>
 <br>
 
 <a href="https://github.com/Arunvijay28/Tic-Tac-Toe">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Tic-Tac-Toe&title_color=e23e7f&text_color=baeeda&icon_color=4AB197&bg_color=141321" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Tic-Tac-Toe&title_color=e23e7f&text_color=a7fcf4&icon_color=4AB197&bg_color=141321" />
 </a>
 <br>
 
