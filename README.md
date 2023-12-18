@@ -40,6 +40,16 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,js,react,mysql,mongodb,git,github,figma,visualstudio&theme=dark"/>
   </a>
 </p>
+<!-- Pinned repo --->
+
+##  📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/Arunvijay28/Mentoring-system">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Mentoring-System&title_color=e23e7f&text_color=73a7a5&icon_color=4AB197&bg_color=141321" />
+</a>
+
 
 <!--- trophies --->
 <br>
