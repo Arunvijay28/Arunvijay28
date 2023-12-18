@@ -70,14 +70,14 @@
 <a href="https://github.com/Arunvijay28/Tic-Tac-Toe">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Arunvijay28&repo=Tic-Tac-Toe&title_color=e23e7f&text_color=baeeda&icon_color=4AB197&bg_color=141321" />
 </a>
-
+<br>
 <!--- trophies --->
 <br>
 
 <h2 style="color: #44AEFB">🏆 Github Trophies</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arunvijay28&theme=radical" alt="Arunvijay" /></a> </p>
 
-<br>
+
 
 <!--- statistics --->
 <h2 style="color: #44AEFB">📊 Statistics</h2>
