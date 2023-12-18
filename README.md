@@ -43,7 +43,7 @@
 <br>
 <!-- Pinned repo --->
 
-##  📌 Pinned Repositories
+<h2 style="color: #44AEFB">📌 Pinned Repositories</h2>
 
 <br>
 
@@ -106,14 +106,6 @@
 <p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BArunvijay2810%7D/count.svg" alt="visitor badge"/></p>
 <br>
-
-<!---<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Arunvijay28/Arunvijay28/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>  --->
 
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
