@@ -109,9 +109,6 @@
 <p align="center"><img src="https://profile-counter.glitch.me/%7BArunvijay2810%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
-<p align="center">
-  <img src="https://github.com/J-B-Mugundh/J-B-Mugundh/blob/output/github-snake.svg" alt="snake">
-</p>
 
 
 
