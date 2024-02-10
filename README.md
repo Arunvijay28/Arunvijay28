@@ -27,7 +27,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/A-Arunkumar](https://github.com/Arunvijay28?tab=repositories)
   
-- 📝 Check out my portfolio at [Portfolio]()
+- 📝 Check out my portfolio at [Portfolio](https://arunvijay28.github.io/arunportfolio/)
   
 - 💬 Ask me about **Javascript, Tkinter , MySQL, MongoDB**
 
