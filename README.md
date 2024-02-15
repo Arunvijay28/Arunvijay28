@@ -29,7 +29,7 @@
   
 - 📝 Check out my portfolio at [Portfolio](https://arunvijay28.github.io/arunportfolio/)
   
-- 💬 Ask me about **Javascript, Tkinter , MySQL, MongoDB**
+- 💬 Ask me about **Javascript,Expressjs, MySQL, MongoDB**
 
 - 📫 Mail me **arunvijaynov10@gmail.com**
 
