@@ -28,6 +28,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/A-Arunkumar](https://github.com/Arunvijay28?tab=repositories)
   
 - 📝 Check out my portfolio at [Portfolio](https://arunvijay28.github.io/arunportfolio/)
+
+- 📝 Check out my portfolio design at [Figma](https://www.figma.com/file/XJ80d9GZbKLwLWYgaxKHCP/Portfolio?type=design&node-id=0-1&mode=design&t=29vmMcwzSnjqKBAT-0)
   
 - 💬 Ask me about **Javascript,Expressjs, MySQL, MongoDB**
 
