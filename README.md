@@ -19,7 +19,9 @@
 
 
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- 👨‍💻 I’m currently working on **Web Developement Project**
+  
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **AI & ML Projects**
 
