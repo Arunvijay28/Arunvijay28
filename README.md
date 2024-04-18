@@ -8,7 +8,7 @@
 <h4 align="center">A Pre-Final Year Student pursuing B Tech Information Technology at SSN College Of Engineering</h4>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=008FF7F&size=36&center=true&vCenter=true&width=600%&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Filmophile;"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=008FF7F&size=36&center=true&vCenter=true&width=600%&lines=Web+Developer;Competitive+Programmer;Tech+Enthusiast;Filmophile;Software+Developer"/>
 <br>
 
 
