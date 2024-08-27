@@ -33,7 +33,7 @@
 
 - 📝 Check out my portfolio design at [Figma](https://www.figma.com/file/XJ80d9GZbKLwLWYgaxKHCP/Portfolio?type=design&node-id=0-1&mode=design&t=29vmMcwzSnjqKBAT-0)
   
-- 💬 Ask me about **Javascript,Expressjs, MySQL, MongoDB**
+- 💬 Ask me about **Typescript,Angular,Spring Boot,RestAPI**
 
 - 📫 Mail me **arunvijaynov10@gmail.com**
 
